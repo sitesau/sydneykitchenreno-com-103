@@ -1,0 +1,19 @@
+{
+  "wheel_id": 350,
+  "structure": "umbrella",
+  "slug": "sydneykitchenreno-com-103",
+  "project": "kitchen-renovations-sydney-comparison-fd34a04f2b526729e10407234",
+  "parent_t1_ref": "sydneykitchenreno-com-151",
+  "node_role": "feeder",
+  "money_target": "sydneykitchenreno.com.au",
+  "primary_kw": "kitchen renovations sydney comparison",
+  "intended_url": "http://kitchen-renovations-sydney-comparison-fd34a04f2b526729e10407234.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "2bfeff86f9836e5a",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/sydneykitchenreno-com-151/",
+      "anchor": "kitchen renovations sydney",
+      "rel": "follow"
+    }
+  ]
+}
